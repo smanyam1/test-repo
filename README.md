@@ -1,2 +1,3 @@
-# test-repo
-A simple test for using github
+# Test Repo
+A simple test for using github and desktop app
+
