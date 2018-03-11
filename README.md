@@ -1,5 +1,5 @@
 # Test Repo
 A simple test for using github and desktop app.
 
-This change is only for development.
+This change is necessary.
 
